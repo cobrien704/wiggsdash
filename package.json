@@ -1,0 +1,23 @@
+{
+  "name": "wigsdash",
+  "version": "1.0.0",
+  "description": "order an uber with the amazon dash button ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://cobrien778@github.com/cobrien704/wigsdash.git"
+  },
+  "author": "cobrien704, willonit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cobrien704/wigsdash/issues"
+  },
+  "homepage": "https://github.com/cobrien704/wigsdash#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.1"
+  }
+}
